@@ -10,3 +10,5 @@ Implementing  Stop Watch system using ATmega16 Microcontroller Using Multiplexin
 4. Connecting the six 7-segments in the project using the multiplexed technique. 
 
 
+![image](https://user-images.githubusercontent.com/103974340/197609015-70249ed4-8093-43a6-a6e8-c3d26a1a7bf9.png)
+
